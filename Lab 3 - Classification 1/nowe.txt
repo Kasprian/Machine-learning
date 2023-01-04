@@ -1,0 +1,36 @@
+Epoch 1/20
+185/185 [==============================] - 295s 2s/step - loss: 0.8600 - accuracy: 0.6763 - val_loss: 1.8266 - val_accuracy: 0.6011
+Epoch 2/20
+185/185 [==============================] - 225s 1s/step - loss: 0.6172 - accuracy: 0.7772 - val_loss: 1.0868 - val_accuracy: 0.6011
+Epoch 3/20
+185/185 [==============================] - 257s 1s/step - loss: 0.5035 - accuracy: 0.8159 - val_loss: 0.6305 - val_accuracy: 0.7469
+Epoch 4/20
+185/185 [==============================] - 287s 2s/step - loss: 0.4150 - accuracy: 0.8517 - val_loss: 0.6526 - val_accuracy: 0.7585
+Epoch 5/20
+185/185 [==============================] - 260s 1s/step - loss: 0.3766 - accuracy: 0.8620 - val_loss: 0.4928 - val_accuracy: 0.8270
+Epoch 6/20
+185/185 [==============================] - 259s 1s/step - loss: 0.3332 - accuracy: 0.8817 - val_loss: 0.6573 - val_accuracy: 0.7714
+Epoch 7/20
+185/185 [==============================] - 257s 1s/step - loss: 0.3087 - accuracy: 0.8882 - val_loss: 0.5191 - val_accuracy: 0.8141
+Epoch 8/20
+ 11/185 [>.............................] - ETA: 2:52 - loss: 0.3354 - accuracy:
+
+
+Epoch 1/20
+185/185 [==============================] - ETA: 0s - loss: 0.8478 - categorical_accuracy: 0.6753  C:\Users\Pjoter\anaconda3\lib\site-packages\keras\engine\functional.py:1410: CustomMaskWarning: Custom mask layers require a config and must override get_config. When loading, the custom mask layer must be passed to the custom_objects argument.
+  layer_config = serialize_layer_fn(layer)
+185/185 [==============================] - 246s 1s/step - loss: 0.8478 - categorical_accuracy: 0.6753 - val_loss: 1.6879 - val_categorical_accuracy: 0.6072
+Epoch 2/20
+185/185 [==============================] - 224s 1s/step - loss: 0.5897 - categorical_accuracy: 0.7873 - val_loss: 1.2510 - val_categorical_accuracy: 0.6072
+Epoch 3/20
+185/185 [==============================] - 258s 1s/step - loss: 0.4826 - categorical_accuracy: 0.8228 - val_loss: 0.6800 - val_categorical_accuracy: 0.7239
+Epoch 4/20
+185/185 [==============================] - 224s 1s/step - loss: 0.4154 - categorical_accuracy: 0.8517 - val_loss: 0.5146 - val_categorical_accuracy: 0.8026
+Epoch 5/20
+185/185 [==============================] - 259s 1s/step - loss: 0.3673 - categorical_accuracy: 0.8680 - val_loss: 0.4547 - val_categorical_accuracy: 0.8426
+Epoch 6/20
+185/185 [==============================] - 256s 1s/step - loss: 0.3199 - categorical_accuracy: 0.8832 - val_loss: 0.5618 - val_categorical_accuracy: 0.7890
+Epoch 7/20
+185/185 [==============================] - 255s 1s/step - loss: 0.2998 - categorical_accuracy: 0.8946 - val_loss: 0.4874 - val_categorical_accuracy: 0.8358
+Epoch 8/20
+185/185 [==============================] - 221s 1s/step - loss: 0.2706 - categorical_accuracy: 0.8958 - val_loss: 0.4953 - val_categorical_accuracy: 0.8134
